@@ -1,0 +1,42 @@
+# TODO Maps are being staticly loaded. Need to find a way to generate a map via gps coordinates.
+
+# Domain
+domain: http://855front.captivaterealestate.com
+
+# Agent Info
+agent-name: Julie Reber
+agent-phone: 415 609 3677
+agent-image-url: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0fb/222/32c8ebe.jpg"
+agent-company: Captivate Real Estate
+agent-button-name-phone: "Julie: 415 609 3677"
+
+# Property Info
+property-street-address: 1080 Sutter St
+property-full-address: 1080 Sutter St, San Francisco, CA, 94111, United States
+property-tag-line: "You're Home"
+video-walkthrough-url: "https://dl.dropboxusercontent.com/s/8qbxbznbkwgkx68/650_anderson_walkthrough_2.mp4"
+list-price: $100,000,000
+number-of-beds: 9 Beds
+number-of-baths: 8 Baths # TODO Fix alignment of baths in html
+matterport-embed-url: "https://my.matterport.com/show/?m=Fug5DuWS5tv"
+property-description: Tradecraft is a full time, inperson immersive training program for people who want to work in startups. The program has been designed by industry leading experts to ensure that you graduate with both the depth and breadth of knowledge you’ll need to make meaningful contributions on your first day at a high growth startup. Once you select your vertical focus you will work with a large group of world class mentors and a small group of inspiring peers to learn new skills while doing real work for real companies.
+
+# Neighboorhood
+neighboorhood-background-image-url: "http://jacksonsquaresf.com/wp-content/uploads/2014/10/jackson_sq_sign.jpg"
+neighboorhood-name: Jackson Square
+neighboorhood-description: Jackson Square Historic District retains its character as one of the oldest commercial neighborhoods in San Francisco. Though in some cases extensively altered during seismic retrofit, the collection of three story brick buildings found on the narrow streets and alleys offer a bright glimpse into the California Gold Rush that gave San Francisco its start. Buildings on the north side of Jackson between Montgomery and Sansome retain cast iron shutters as protection against fire, but when the city burned, in one case, a warehouses contents turned out to be more significant in saving the building
+map-longitude: "-122.40023"
+map-latitude: "37.79949"
+
+# Contact Section
+contact-us-background-image-url: "https://dl.dropboxusercontent.com/s/udahjg026txl67f/2015-09-18%2016.55.17.jpg?dl=0"
+agent-website: "http://www.tradecrafted.com"
+
+# TODO  Add gallery images here
+gallery-image-01: "https://dl.dropboxusercontent.com/s/56cpb9eb72ves83/IMG_9436.JPG?dl=0"
+gallery-image-02: "https://dl.dropboxusercontent.com/s/pcoxq8nv4rorbno/IMG_9446.JPG?dl=0"
+
+meta-tag-image-01: "https://dl.dropboxusercontent.com/s/56cpb9eb72ves83/IMG_9436.JPG"
+meta-tag-image-02: "https://dl.dropboxusercontent.com/s/pcoxq8nv4rorbno/IMG_9446.JPG"
+meta-tag-image-03: 
+meta-tag-image-04: 

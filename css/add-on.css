@@ -1,0 +1,43 @@
+* {
+    -webkit-box-sizing: initial;
+    -moz-box-sizing: initial;
+    box-sizing: initial;
+}
+
+/*Property*/
+.bed-bath-icon {
+  width: 200px;
+}
+
+/*Gallery*/
+.gallery-thumb-link {
+  height: 200px;
+  width: 30%;
+  overflow: hidden;
+}
+
+.gallery-row {
+  margin-top: 30px;
+}
+
+.modal-dialog {
+  max-width: 1000px !important;
+}
+
+.modal-dialog * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+/*Contact*/
+#contact .name {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+#contact .phone {
+  font-size: 40px;
+}
+
